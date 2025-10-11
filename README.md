@@ -24,8 +24,6 @@ Fast-growing digital marketplace combining competitive pricing with comprehensiv
 
 Established key reseller delivering consistently low prices on AAA titles through direct publisher relationships and bulk purchasing agreements, maintaining 4+ star Trustpilot ratings across 200,000+ reviews.
 
-![CDKeys Screenshot](image/loaded.webp)
-
 
 ![CDKeys Screenshot](image/loaded.webp)
 
@@ -77,7 +75,6 @@ Large-scale marketplace pioneering the peer-to-peer game key model with Goldmine
 
 Charity-focused storefront bundling indie and AAA titles in pay-what-you-want tiers while directing proceeds to publishers, creators, and verified nonprofit organizations.
 
-![Humble Bundle Screenshot](image/humblebundle.webp)
 
 
 ![Humble Bundle Screenshot](image/humblebundle.webp)
@@ -115,7 +112,6 @@ Authorized retailer partnering with 1,350+ publishers to sell platform-agnostic 
 
 Bundle specialist offering themed game collections with tiered pricing and individual key sales across 10,000+ Steam, Epic, and Origin titles.
 
-![Fanatical Screenshot](image/fanatical.webp)
 
 
 ![Fanatical Screenshot](image/fanatical.webp)
@@ -188,8 +184,6 @@ Swedish digital distributor founded 2006 offering 5% commission partnerships thr
 
 Officially licensed retailer operating UK, French, German, and US storefronts with direct publisher partnerships and influencer-friendly revenue sharing plus community discount codes.
 
-![Gamesplanet Screenshot](image/gamesplanet.webp)
-
 
 ![Gamesplanet Screenshot](image/gamesplanet.webp)
 
@@ -244,7 +238,6 @@ Price comparison aggregator partnering with 30+ verified sellers while operating
 
 Italian bundle storefront founded 2011 specializing in pay-what-you-want indie collections with charity components supporting Save the Children and regional disaster relief.
 
-![IndieGala Screenshot](image/indiegala.webp)
 
 
 ![IndieGala Screenshot](image/indiegala.webp)
@@ -318,8 +311,6 @@ French digital retailer authorized by publishers since 2004 with IsThereAnyDeal 
 
 Decade-old PC game retailer offering 5% partnership commissions through direct signup with 7-day return windows and no advertisements cluttering storefront.
 
-![WinGameStore Screenshot](image/wingamestore.webp)
-
 
 ![WinGameStore Screenshot](image/wingamestore.webp)
 
@@ -356,7 +347,6 @@ Modern key retailer emphasizing sleek UI/UX design with frequent discount codes 
 
 Daily deal curator featuring single game promotions for 24-hour windows with verified direct-from-developer Steam key sourcing.
 
-![Chrono.gg Screenshot](image/chrono.webp)
 
 
 ![Chrono.gg Screenshot](image/chrono.webp)
@@ -427,8 +417,6 @@ Premium tier of Green Man Gaming offering exclusive discounts, free games, and e
 
 Time-limited flash sale section within Fanatical storefront rotating 24-hour deep discounts on handpicked titles.
 
-![Fanatical Star Deals Screenshot](image/fanatical.webp)
-
 
 ![Fanatical Star Deals Screenshot](image/fanatical.webp)
 
@@ -446,8 +434,6 @@ Time-limited flash sale section within Fanatical storefront rotating 24-hour dee
 ## **[Humble Choice](https://www.humblebundle.com/membership)**
 
 Monthly subscription delivering 8-12 curated games for $11.99 with instant access and Steam key generation plus 20% store discount.
-
-![Humble Choice Screenshot](image/humblebundle.webp)
 
 
 ![Humble Choice Screenshot](image/humblebundle.webp)
