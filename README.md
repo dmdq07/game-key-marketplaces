@@ -274,6 +274,7 @@ Emerging marketplace combining user-to-user sales with verified merchant listing
 ## **[MMOGA](https://www.mmoga.com)**
 
 German-based virtual goods marketplace operating since 2007 specializing in MMO currency, game keys, and console network cards with 90% discount events on EA titles.
+
 ![MMOGA Screenshot](image/mmoga.webp)
 
 
